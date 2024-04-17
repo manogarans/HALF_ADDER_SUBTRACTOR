@@ -75,7 +75,7 @@ assign Bo = ~a & b;
 endmodule
 ```
 
-**RTL Schematic**
+## RTL Schematic
 ![Screenshot 2024-04-17 180127](https://github.com/manogarans/HALF_ADDER_SUBTRACTOR/assets/139331782/c6655334-b12e-460d-933d-860159767c83)
 
 ## Half Adder
